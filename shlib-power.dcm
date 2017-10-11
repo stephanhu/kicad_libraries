@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: So 03 Jul 2016 17:55:09 CEST
+#
+$CMP MCP1700
+D MCP1700
+K LDO Spannungsregler
+F Datenblätter/Microchip/MCP1700 - Low Quiescent Current LDO.pdf
+$ENDCMP
+#
+#End Doc Library
